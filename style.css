@@ -1,0 +1,15 @@
+.objects{
+    background-color: lightsalmon;
+    width: 50%;
+    color: rgb(241, 244, 248);
+    
+}
+body{
+    background-color: rgb(122, 178, 231);
+    color: aliceblue;
+}
+#camera{
+    border:5px dotted rgb(3, 40, 82);
+    height:350px;
+    width:350px;
+}
